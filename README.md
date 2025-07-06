@@ -15,7 +15,6 @@ CRM APPLICATION FOR JEWEL MANAGEMENT-(DEVELOPER):
           Team member : Murkonda Hema Harshini
 
 
-      Vedio Demo Link:
-          https://drive.google.com/file/d/1Gv5n3OdgY0hibkhTAyv1L1UJOWKEwGFW/view?usp=sharing
+      
 
       
